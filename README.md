@@ -14,8 +14,8 @@
 
 ## Sobre mim
 
-Desenvolvedor em formação com foco em **backend**, **dados** e **soluções em nuvem**.  
-Construo aplicações com Python, APIs modernas e infraestrutura containerizada, unindo boas práticas de código, automação e experiência do usuário.
+Graduando em **Inteligência Artificial e Ciência de Dados**, com base sólida em programação, bancos de dados, análise de dados e cloud computing.  
+Desenvolvo soluções com **Python** e **Java**, aplicando boas práticas de engenharia de software, segurança da informação e gestão de projetos.
 
 ---
 
@@ -42,9 +42,9 @@ Construo aplicações com Python, APIs modernas e infraestrutura containerizada,
 
 | Categoria | Stack |
 | :--- | :--- |
-| **Frontend** | HTML · CSS · JavaScript |
-| **Backend** | Python · Java · FastAPI |
-| **Dados & IA** | Pandas · NumPy |
+| **Frontend & UX** | HTML · CSS · JavaScript · IHM |
+| **Backend** | Python · Java · FastAPI · POO |
+| **Dados & IA** | Pandas · NumPy · Estatística · Análise de Dados |
 | **Infra & Cloud** | Docker · Kubernetes · AWS · MySQL |
 | **Ferramentas** | Git · GitHub · VS Code · Cursor · Obsidian · Figma |
 
@@ -54,13 +54,46 @@ Construo aplicações com Python, APIs modernas e infraestrutura containerizada,
 
 ## Formação Acadêmica
 
-Graduação em **Inteligência Artificial e Ciência de Dados** — formação em andamento.
+**Graduação:** Inteligência Artificial e Ciência de Dados *(em andamento)*
 
-| Eixo | Competências |
+| Área | Disciplinas concluídas |
 | :--- | :--- |
-| **Programação** | Lógica, estruturas de dados e desenvolvimento de software |
-| **Dados** | Análise, estatística e visualização de informações |
-| **IA & Cloud** | Modelos inteligentes, automação e computação em nuvem |
+| **Programação** | Algoritmos e Estruturas de Dados · POO · Python aplicado à IA · Lab. de Programação · Linguagem e Técnicas de Programação |
+| **Dados & Matemática** | Análise de Dados · Estatística Aplicada · Matemática Aplicada à IA · Álgebra Linear e Geometria Analítica |
+| **Banco de Dados** | Banco de Dados I · Banco de Dados II |
+| **Cloud & Sistemas** | Cloud Computing · Arquitetura de Computadores · Fundamentos de TI · Segurança e Auditoria de SI · Tecnologias Digitais Emergentes |
+| **Gestão & Negócios** | Gestão de Projetos · Fundamentos de Administração e Economia · Comportamento Empreendedor · Interface Homem-Máquina |
+
+<details>
+<summary><b>Ver todas as disciplinas aprovadas</b></summary>
+<br>
+
+| Disciplina | Ano |
+| :--- | :---: |
+| Álgebra Linear e Geometria Analítica | 2025 |
+| Algoritmos e Estruturas de Dados | 2025 |
+| Análise de Dados | 2026 |
+| Arquitetura e Organização de Computadores | 2025 |
+| Banco de Dados I | 2025 |
+| Banco de Dados II | 2026 |
+| Cloud Computing | 2026 |
+| Comportamento Empreendedor | 2025 |
+| Estatística Aplicada | 2025 |
+| Fundamentos de Administração e Economia | 2025 |
+| Fundamentos de Tecnologia da Informação | 2025 |
+| Gestão de Projetos | 2025 |
+| Interface Homem-Máquina | 2025 |
+| Laboratório de Programação | 2025 |
+| Linguagem e Técnicas de Programação | 2025 |
+| Matemática Aplicada à Inteligência Artificial | 2025 |
+| Programação Orientada a Objetos | 2026 |
+| Python Aplicado à Inteligência Artificial | 2026 |
+| Segurança e Auditoria de Sistemas de Informação | 2025 |
+| Tecnologias Digitais Emergentes | 2025 |
+
+</details>
+
+**Em estudo / próximas etapas:** Machine Learning · Deep Learning · Ciência de Dados · Big Data & Data Mining · Projetos Integrados
 
 ---
 
