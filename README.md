@@ -23,7 +23,7 @@ Desenvolvo soluções com **Python** e **Java**, aplicando boas práticas de eng
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,docker,kubernetes,mysql,aws,git,github,vscode,obsidian,figma&theme=dark&perline=8" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,cursor,docker,kubernetes,mysql,aws,git,github,vscode,obsidian,figma&theme=dark&perline=8" alt="Skills" />
 
 </div>
 
@@ -88,12 +88,58 @@ Desenvolvo soluções com **Python** e **Java**, aplicando boas práticas de eng
 
 ---
 
-## GitHub Analytics
+## GitHub & Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=wjr007&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wjr007&theme=dark&layout=compact&hide_border=true&langs_count=8"/>
+<img height="195em" src="https://github-readme-stats.shion.dev/api?username=wjr007&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>
+
+<div style="display:inline-block; vertical-align:top; height:195px; width:300px; background:#0d1117; border:1px solid #30363d; border-radius:6px; padding:18px 20px; text-align:left; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; color:#c9d1d9; box-sizing:border-box;">
+
+<strong style="font-size:14px; color:#ffffff;">Stack Principal</strong>
+<br><br>
+
+<div style="margin-bottom:11px;">
+<span style="font-size:12px; display:inline-block; width:78px;">Python</span>
+<span style="display:inline-block; width:145px; height:8px; background:#21262d; border-radius:4px; vertical-align:middle;">
+<span style="display:block; width:92%; height:100%; background:#3776AB; border-radius:4px;"></span>
+</span>
+<span style="font-size:11px; color:#8b949e; margin-left:6px;">92%</span>
+</div>
+
+<div style="margin-bottom:11px;">
+<span style="font-size:12px; display:inline-block; width:78px;">Java</span>
+<span style="display:inline-block; width:145px; height:8px; background:#21262d; border-radius:4px; vertical-align:middle;">
+<span style="display:block; width:86%; height:100%; background:#ED8B00; border-radius:4px;"></span>
+</span>
+<span style="font-size:11px; color:#8b949e; margin-left:6px;">86%</span>
+</div>
+
+<div style="margin-bottom:11px;">
+<span style="font-size:12px; display:inline-block; width:78px;">HTML</span>
+<span style="display:inline-block; width:145px; height:8px; background:#21262d; border-radius:4px; vertical-align:middle;">
+<span style="display:block; width:80%; height:100%; background:#E34F26; border-radius:4px;"></span>
+</span>
+<span style="font-size:11px; color:#8b949e; margin-left:6px;">80%</span>
+</div>
+
+<div style="margin-bottom:11px;">
+<span style="font-size:12px; display:inline-block; width:78px;">CSS</span>
+<span style="display:inline-block; width:145px; height:8px; background:#21262d; border-radius:4px; vertical-align:middle;">
+<span style="display:block; width:74%; height:100%; background:#1572B6; border-radius:4px;"></span>
+</span>
+<span style="font-size:11px; color:#8b949e; margin-left:6px;">74%</span>
+</div>
+
+<div style="margin-bottom:0;">
+<span style="font-size:12px; display:inline-block; width:78px;">JavaScript</span>
+<span style="display:inline-block; width:145px; height:8px; background:#21262d; border-radius:4px; vertical-align:middle;">
+<span style="display:block; width:68%; height:100%; background:#F7DF1E; border-radius:4px;"></span>
+</span>
+<span style="font-size:11px; color:#8b949e; margin-left:6px;">68%</span>
+</div>
+
+</div>
 
 </div>
 
