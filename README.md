@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologias
 
-[![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,numpy,docker,kubernetes,postgres,mysql,redis,aws,git,github,vscode,figma&theme=dark&perline=8)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,numpy,docker,kubernetes,mysql,redis,aws,git,github,vscode,obsidian,cursor,figma&theme=dark&perline=8)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
