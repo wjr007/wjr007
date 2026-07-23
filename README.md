@@ -23,16 +23,7 @@ Desenvolvo soluções com **Python** e **Java**, aplicando boas práticas de eng
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,numpy,docker,kubernetes&theme=dark&perline=10)](https://skillicons.dev)
-
-<br>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,aws,git,github,vscode,obsidian,figma&theme=dark&perline=7" alt="Skills" />
-</a>
-<a href="https://cursor.com" title="Cursor">
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Cursor-Dark.svg" width="48" height="48" alt="Cursor" />
-</a>
+[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,numpy,docker,kubernetes,mysql,aws,git,github,vscode,obsidian,figma&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
