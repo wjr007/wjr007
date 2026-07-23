@@ -21,7 +21,20 @@ Construo aplicações com Python, APIs modernas e infraestrutura containerizada,
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,numpy,docker,kubernetes,mysql,redis,aws,git,github,vscode,obsidian,cursor,figma&theme=dark&perline=8)](https://skillicons.dev)
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,numpy,docker,kubernetes&theme=dark&perline=10)](https://skillicons.dev)
+
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,aws,git,github,vscode,obsidian,figma&theme=dark&perline=8" alt="Skills" />
+</a>
+<a href="https://cursor.com" title="Cursor">
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Cursor-Dark.svg" width="48" height="48" alt="Cursor" />
+</a>
+
+</div>
 
 <details>
 <summary><b>Stack em detalhe</b></summary>
