@@ -37,17 +37,30 @@ Construo aplicações com Python, APIs modernas e infraestrutura containerizada,
 </div>
 
 <details>
-<summary><b>Stack em detalhe</b></summary>
+<summary><b>Ver skills por categoria</b></summary>
+<br>
 
-| Área | Tecnologias |
-|------|-------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python, Java, FastAPI |
-| **Dados & IA** | Pandas, NumPy |
-| **Infra & Cloud** | Docker, Kubernetes, AWS, MySQL |
-| **Ferramentas** | Git, GitHub, VS Code, Cursor, Obsidian, Figma |
+| Categoria | Stack |
+| :--- | :--- |
+| **Frontend** | HTML · CSS · JavaScript |
+| **Backend** | Python · Java · FastAPI |
+| **Dados & IA** | Pandas · NumPy |
+| **Infra & Cloud** | Docker · Kubernetes · AWS · MySQL |
+| **Ferramentas** | Git · GitHub · VS Code · Cursor · Obsidian · Figma |
 
 </details>
+
+---
+
+## Formação Acadêmica
+
+Graduação em **Inteligência Artificial e Ciência de Dados** — formação em andamento.
+
+| Eixo | Competências |
+| :--- | :--- |
+| **Programação** | Lógica, estruturas de dados e desenvolvimento de software |
+| **Dados** | Análise, estatística e visualização de informações |
+| **IA & Cloud** | Modelos inteligentes, automação e computação em nuvem |
 
 ---
 
