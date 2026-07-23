@@ -28,7 +28,7 @@ Construo aplicações com Python, APIs modernas e infraestrutura containerizada,
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,redis,aws,git,github,vscode,obsidian,figma&theme=dark&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,git,github,vscode,obsidian,figma&theme=dark&perline=7" alt="Skills" />
 </a>
 <a href="https://cursor.com" title="Cursor">
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Cursor-Dark.svg" width="48" height="48" alt="Cursor" />
@@ -44,7 +44,7 @@ Construo aplicações com Python, APIs modernas e infraestrutura containerizada,
 | **Frontend** | HTML, CSS, JavaScript |
 | **Backend** | Python, Java, FastAPI |
 | **Dados & IA** | Pandas, NumPy |
-| **Infra & Cloud** | Docker, Kubernetes, AWS, Redis, MySQL |
+| **Infra & Cloud** | Docker, Kubernetes, AWS, MySQL |
 | **Ferramentas** | Git, GitHub, VS Code, Cursor, Obsidian, Figma |
 
 </details>
