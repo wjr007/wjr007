@@ -23,22 +23,7 @@ Desenvolvo soluções com **Python** e **Java**, aplicando boas práticas de eng
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,numpy,docker&theme=dark&perline=9" alt="Skills" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=kubernetes,mysql,aws,git,github,vscode,obsidian,figma&theme=dark&perline=8" alt="Skills" />
-</a>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,fastapi,pandas,docker,kubernetes,mysql,aws,git,github,vscode,obsidian,figma&theme=dark&perline=8" alt="Skills" />
 
 </div>
 
