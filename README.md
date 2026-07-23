@@ -92,8 +92,8 @@ Desenvolvo soluções com **Python** e **Java**, aplicando boas práticas de eng
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wjr007&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjr007&theme=dark&layout=compact&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=wjr007&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wjr007&theme=dark&layout=compact&hide_border=true&langs_count=8"/>
 
 </div>
 
