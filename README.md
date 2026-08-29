@@ -52,19 +52,14 @@ Graduando em **Inteligência Artificial e Ciência de Dados**, com foco em trans
 - [Processamento de Linguagem Natural](https://github.com/wjr007/Processamento-de-Linguagem-Natural-PLN-)
 - [Dashboard](https://github.com/wjr007/Dashboard)
 
-<!--
-  Estatísticas: a seção será ativada após o deploy privado de github-readme-stats no Vercel.
-  Veja DOCUMENTACAO.md para o procedimento seguro, que não expõe o token do GitHub.
+<!-- Estatísticas: ative após o deploy privado de github-readme-stats no Vercel.
+     Veja DOCUMENTACAO.md para o procedimento seguro, que não expõe token. -->
 
-  Snake: adicione o bloco abaixo somente depois de o workflow "Generate Snake Animation"
-  concluir e criar o branch output:
-
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg">
-      <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg">
-    </picture>
-  </div>
--->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg">
+  </picture>
+</div>
 
