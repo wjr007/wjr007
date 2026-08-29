@@ -6,9 +6,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/main/light.svg">
-    <img alt="Walteir Junior - IA e Ciência de Dados" src="https://raw.githubusercontent.com/wjr007/wjr007/main/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/main/dark.svg?v=20260829-2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/main/light.svg?v=20260829-2">
+    <img alt="Walteir Junior - IA e Ciência de Dados" src="https://raw.githubusercontent.com/wjr007/wjr007/main/light.svg?v=20260829-2">
   </picture>
 
   <br>
