@@ -5,11 +5,7 @@
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/main/dark.svg?v=20260829-3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/main/light.svg?v=20260829-3">
-    <img alt="Walteir Junior - IA e Ciência de Dados" src="https://raw.githubusercontent.com/wjr007/wjr007/main/light.svg?v=20260829-3">
-  </picture>
+  <img width="100%" alt="Walteir Junior — IA, Dados e Backend" src="https://raw.githubusercontent.com/wjr007/wjr007/c9a921ec75f64f0e8cd5a197fd13c94b8fc168f9/dark.svg">
 
   <br>
 
