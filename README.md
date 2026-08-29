@@ -22,32 +22,33 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## Perfil em foco
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Transformando+dados+em+solu%C3%A7%C3%B5es+pr%C3%A1ticas;Construindo+com+IA%2C+backend+e+automa%C3%A7%C3%A3o" alt="Transformando dados em soluções práticas e construindo com IA, backend e automação">
+</div>
 
 ### Sobre
 
-Graduando em **Inteligência Artificial e Ciência de Dados**, construindo soluções que combinam análise de dados, software e automação.
+Graduando em **Inteligência Artificial e Ciência de Dados**, construindo soluções que conectam análise de dados, software e automação.
 
-- Transformo dados em decisões e produtos práticos.
-- Desenvolvo com Python, Java, SQL e APIs.
-- Exploro Machine Learning, Deep Learning e Cloud.
-
-    </td>
-    <td width="50%" valign="top">
+- Dados para decisões e produtos práticos.
+- Python, Java, SQL e APIs para implementar soluções.
+- Machine Learning, Deep Learning e Cloud em evolução contínua.
 
 ### Em foco
 
-`AI & Data Science` · `Machine Learning` · `Deep Learning`
-
-`Data Analytics` · `Databases` · `Multi-Cloud`
-
-`Backend` · `UI/UX` · `n8n Automation`
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <code>AI &amp; Data Science</code> &nbsp;
+  <code>Machine Learning</code> &nbsp;
+  <code>Deep Learning</code> &nbsp;
+  <code>Data Analytics</code> &nbsp;
+  <code>Databases</code> &nbsp;
+  <code>Multi-Cloud</code> &nbsp;
+  <code>Backend</code> &nbsp;
+  <code>UI/UX</code> &nbsp;
+  <code>n8n Automation</code>
+</div>
 
 ## Tecnologias
 
