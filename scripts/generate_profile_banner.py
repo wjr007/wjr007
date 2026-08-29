@@ -103,17 +103,22 @@ def banner(theme: str) -> str:
   <rect x="1" y="1" width="1178" height="608" rx="15" fill="none" stroke="{p['line']}"/>
   <rect x="1" y="1" width="1178" height="47" rx="15" fill="{p['panel']}"/><path d="M1 47.5h1178" stroke="{p['line']}"/>
   <circle cx="27" cy="24" r="6" fill="#FB7185"/><circle cx="49" cy="24" r="6" fill="#FBBF24"/><circle cx="71" cy="24" r="6" fill="#34D399"/>
-  <text x="590" y="29" text-anchor="middle" class="mono" font-size="14" fill="{p['muted']}">profile.sh --live</text>
+  <text x="590" y="29" text-anchor="middle" class="mono" font-size="14" fill="{p['muted']}">wjr007://profile --live</text>
   <rect x="25" y="77" width="408" height="488" rx="10" fill="{p['panel']}" stroke="{p['line']}"/>
   <text x="48" y="105" class="mono" font-size="12" letter-spacing="2" fill="{p['chrome']}">VISUAL.MAP</text>
   <path d="M48 114h362" stroke="{p['line']}"/>
   <g fill="{p['portrait']}" shape-rendering="crispEdges" opacity=".96">{portrait}</g>
+  <text x="48" y="492" class="mono" font-size="11" letter-spacing="1.4" fill="{p['chrome']}">FOCUS.MODULES</text>
+  <rect x="48" y="503" width="91" height="23" rx="11.5" fill="{p['portrait']}" opacity=".16"/><text x="93.5" y="519" text-anchor="middle" class="mono" font-size="10" fill="{p['portrait']}">AI / ML</text>
+  <rect x="148" y="503" width="91" height="23" rx="11.5" fill="{p['chrome']}" opacity=".14"/><text x="193.5" y="519" text-anchor="middle" class="mono" font-size="10" fill="{p['chrome']}">DATA</text>
+  <rect x="248" y="503" width="111" height="23" rx="11.5" fill="{p['portrait']}" opacity=".16"/><text x="303.5" y="519" text-anchor="middle" class="mono" font-size="10" fill="{p['portrait']}">BACKEND</text>
   <rect x="492" y="77" width="663" height="488" rx="10" fill="{p['panel']}" stroke="{p['line']}"/>
   <text x="520" y="105" class="mono" font-size="12" letter-spacing="2" fill="{p['chrome']}">SYSTEM.INFO</text>
   <circle class="live" cx="1016" cy="100" r="5" fill="#FB7185"/><text x="1029" y="105" class="mono" font-size="12" fill="#FB7185">LIVE</text>
   <rect x="1070" y="84" width="64" height="25" rx="12.5" fill="{p['portrait']}" opacity=".2"/><text x="1102" y="102" text-anchor="middle" class="mono" font-size="12" fill="{p['portrait']}">{escape(PROFILE['handle'])}</text>
   {y_rows}
-  <text x="48" y="541" class="mono" font-size="11" fill="{p['muted']}">PORTRAIT SOURCE: CURRENT GITHUB AVATAR · 1-BIT DOT RENDER</text>
+  <text x="520" y="528" class="mono" font-size="12" fill="{p['chrome']}">›</text><text x="539" y="528" class="mono" font-size="12" fill="{p['muted']}">next_build = explore(\"ai + data + systems\")</text>
+  <text x="48" y="547" class="mono" font-size="10" fill="{p['muted']}">PORTRAIT SOURCE: CURRENT GITHUB AVATAR · 1-BIT DOT RENDER</text>
 </svg>'''
 
 
