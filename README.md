@@ -31,7 +31,7 @@ Graduando em **Inteligência Artificial e Ciência de Dados**, com foco em trans
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,mysql,docker,kubernetes,aws,git,github,vscode,figma,numpy&theme=dark&perline=8" alt="Tecnologias: Python, Java, JavaScript, HTML, CSS, FastAPI, MySQL, Docker, Kubernetes, AWS, Git, GitHub, VS Code, Figma e NumPy">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,mysql,docker,kubernetes,aws,n8n,git,github,vscode,figma,numpy&theme=dark&perline=8" alt="Tecnologias: Python, Java, JavaScript, HTML, CSS, FastAPI, MySQL, Docker, Kubernetes, AWS, n8n, Git, GitHub, VS Code, Figma e NumPy">
 </div>
 
 <div align="center">
@@ -39,6 +39,7 @@ Graduando em **Inteligência Artificial e Ciência de Dados**, com foco em trans
   <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend">
   <img src="https://img.shields.io/badge/MySQL-Data_Layer-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Docker-Cloud_Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n para automação de workflows">
 </div>
 
 | Área | Tecnologias e temas |
@@ -46,7 +47,7 @@ Graduando em **Inteligência Artificial e Ciência de Dados**, com foco em trans
 | Dados & IA | Python · Pandas · NumPy · Estatística · Análise de Dados |
 | Backend | Java · FastAPI · APIs · POO |
 | Dados persistentes | MySQL · SQL · Banco de Dados |
-| Infraestrutura | Docker · Kubernetes · AWS · GitHub Actions |
+| Infraestrutura & Automação | Docker · Kubernetes · AWS · GitHub Actions · n8n |
 
 ## Projetos em destaque
 
