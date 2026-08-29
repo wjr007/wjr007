@@ -46,23 +46,27 @@ PALETTES = {
 def path_for_portrait(theme: str) -> str:
     """Turn the profile photo into an ordered 1-bit dot field made of SVG paths."""
     image = Image.open(SOURCE).convert("L")
-    image = ImageOps.fit(image, (112, 128), method=Image.Resampling.LANCZOS, centering=(0.5, 0.38))
+    # A portrait-scale grid fills the visual panel while preserving head and shoulders.
+    image = ImageOps.fit(image, (140, 160), method=Image.Resampling.LANCZOS, centering=(0.5, 0.36))
     image = ImageOps.autocontrast(image, cutoff=1)
     image = ImageEnhance.Contrast(image).enhance(1.3)
     image = image.filter(ImageFilter.UnsharpMask(radius=2, percent=140, threshold=2))
 
     pixels = image.load()
     commands: list[str] = []
-    # The dark version inverts ink so it preserves the lit subject against a clean terminal panel.
+    # Preserve the lit subject in both themes. Inverting the light version makes this
+    # portrait's dark studio background dominate the panel instead of the person.
     for y in range(image.height):
         for x in range(image.width):
             level = pixels[x, y]
-            ink = (255 - level) if theme == "light" else level
+            ink = level
             if ink > 108:
-                px, py = 34 + x * 2.45, 108 + y * 2.45
+                px, py = 70 + x * 2.25, 126 + y * 2.25
                 size = 1.38 if ink < 185 else 1.72
                 commands.append(f"M{px:.1f} {py:.1f}h{size:.1f}v{size:.1f}h-{size:.1f}z")
-    return "".join(commands)
+    # SVG path commands must live in a <path> element. Returning bare commands
+    # would be treated as text and leave the portrait panel empty on GitHub.
+    return f'<path d="{"".join(commands)}"/>'
 
 
 def row(label: str, value: str, y: int, palette: dict[str, str]) -> str:
