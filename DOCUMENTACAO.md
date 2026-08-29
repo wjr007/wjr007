@@ -2,14 +2,14 @@
 
 ## Estrutura
 
-- `README.md`: conteúdo público exibido no perfil.
-- `dark.svg` e `light.svg`: banners por tema do GitHub.
+- `README.md`: conteúdo público exibido no perfil, construído com componentes nativos do GitHub.
+- `dark.svg` e `light.svg`: experimentos visuais mantidos fora do fluxo principal do README.
 - `.github/workflows/snake.yml`: atualiza a animação de contribuições a cada 12 horas.
 - `scripts/generate_profile_banner.py`: fonte reprodutível dos banners.
 
-## Banner
+## Ativos visuais
 
-O banner usa a foto atual do perfil apenas como entrada local, sem adicionar a foto original ao repositório. Para atualizar a arte, salve uma foto de retrato em `work/profile-assets/profile-avatar.png` e execute:
+Os SVGs usam a foto atual do perfil apenas como entrada local, sem adicionar a foto original ao repositório. O README não depende desses SVGs: isso garante que a apresentação inicial permaneça legível se um navegador ou CDN não renderizar animações. Para atualizar os ativos experimentais, salve uma foto de retrato em `work/profile-assets/profile-avatar.png` e execute:
 
 ```powershell
 python scripts/generate_profile_banner.py
