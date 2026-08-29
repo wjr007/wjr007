@@ -74,12 +74,37 @@ Graduando em **Inteligência Artificial e Ciência de Dados**, construindo solu�
 
 ## Projetos selecionados
 
-| Projeto | Foco |
-| :-- | :-- |
-| [Análise de Admissão de Candidatos com IA](https://github.com/wjr007/Analise-Admissao-Candidatos-IA) | Inteligência Artificial e análise de dados |
-| [Processamento de Imagem](https://github.com/wjr007/Processamento-de-Imagem) | Visão computacional |
-| [Processamento de Linguagem Natural](https://github.com/wjr007/Processamento-de-Linguagem-Natural-PLN-) | NLP e dados textuais |
-| [Dashboard](https://github.com/wjr007/Dashboard) | Visualização e produto de dados |
+### 🤖 IA para admissão de candidatos
+
+`Inteligência Artificial` · `Análise de dados`
+
+Uma exploração de IA aplicada à análise de candidatos.
+
+[Explorar projeto →](https://github.com/wjr007/Analise-Admissao-Candidatos-IA)
+
+### 🖼️ Processamento de imagem
+
+`Visão computacional` · `Python`
+
+Experimentos e estudos de processamento e análise visual.
+
+[Explorar projeto →](https://github.com/wjr007/Processamento-de-Imagem)
+
+### 💬 Processamento de linguagem natural
+
+`NLP` · `Dados textuais`
+
+Estudos e aplicações para interpretar e trabalhar com linguagem humana.
+
+[Explorar projeto →](https://github.com/wjr007/Processamento-de-Linguagem-Natural-PLN-)
+
+### 📊 Dashboard
+
+`Visualização de dados` · `Produto`
+
+Um projeto voltado à apresentação clara de informações e indicadores.
+
+[Explorar projeto →](https://github.com/wjr007/Dashboard)
 
 ## Trilha de contribuições
 
