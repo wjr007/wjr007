@@ -66,7 +66,7 @@ Graduando em **Inteligência Artificial e Ciência de Dados**, construindo solu�
 ## Pulso do GitHub
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=wjr007&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="Sequência de contribuições">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=wjr007&locale=pt_BR&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="Sequência de contribuições">
   <br>
   <a href="https://github.com/wjr007?tab=repositories"><img height="190" src="https://github-readme-stats.shion.dev/api?username=wjr007&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Estatísticas do GitHub"></a>
   <a href="https://github.com/wjr007?tab=repositories"><img height="190" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wjr007&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Linguagens mais usadas"></a>
