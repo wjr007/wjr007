@@ -5,11 +5,11 @@
 -->
 
 <div align="center">
-  <img width="100%" alt="Walteir Junior — IA, Dados e Backend" src="https://raw.githubusercontent.com/wjr007/wjr007/c9a921ec75f64f0e8cd5a197fd13c94b8fc168f9/dark.svg">
+  <img width="100%" alt="Walteir Junior — IA, Dados e Backend" src="https://raw.githubusercontent.com/wjr007/wjr007/6bd1c6e9782ff4376533c79e3024d10aa1682f16/dark.svg">
 
   <br>
 
-  **Estudante de Inteligência Artificial e Ciência de Dados · Backend · Cloud Computing**
+  **AI & Data Science | Machine Learning & Deep Learning | Data Analytics | Python, Java & Databases | Multi-Cloud | UI/UX**
 
   <a href="https://www.linkedin.com/in/walteir-luiz-de-morais-junior-42a21928a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
