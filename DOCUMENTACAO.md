@@ -12,11 +12,11 @@ O GitHub publica o README de `wjr007/wjr007` no perfil de mesmo nome. Não há s
 
 ## Design e movimento
 
-Paleta escura: fundo `#0B1623`, texto `#EFF8FA`, secundário `#9BB1C2`, ciano `#55DDE0`, verde-água `#7AE2C3`. O banner claro utiliza fundo `#F3F8FA` com texto e acentos escuros.
+O banner usa uma única paleta escura em todos os temas do GitHub: fundo quase preto `#05080D`, texto principal `#F8FAFC`, texto secundário `#CBD5E1`, ciano `#55DDE0` e verde-água `#7AE2C3`.
 
 O retrato tem deslocamento vertical suave; um arco gira lentamente. As três habilidades do rodapé aparecem em sequência uma vez, permanecendo legíveis. O CSS do banner desativa esses movimentos com `prefers-reduced-motion: reduce`. A animação da cobrinha é produzida pelo gerador externo e não herda esse controle.
 
-O README mantém nome, formação, habilidades e links como texto independente das imagens. Não usa JavaScript nem CSS na página do GitHub; o movimento fica dentro dos SVGs. A seleção do banner claro/escuro usa `picture`.
+O README mantém nome, formação, habilidades e links como texto independente das imagens. Não usa JavaScript nem CSS na página do GitHub; o movimento fica dentro dos SVGs. O README referencia diretamente `dark.svg`, garantindo a aparência preta mesmo quando o visitante usa o tema claro do GitHub. `light.svg` é mantido igual por compatibilidade e pelo fluxo do gerador.
 
 ## Alterações rápidas
 
