@@ -45,6 +45,12 @@ Se a cobrinha não atualizar, confira o workflow **Generate Snake Animation** em
 - Substituída a paleta roxa da cobrinha por azul, ciano e verde-água.
 - Mantidas as informações de graduação e aprendizado, sem afirmar senioridade ou proficiência não comprovada.
 
-## Banner de tecnologias
+## Galeria enviada pelo proprietário
 
-A imagem indicada pelo proprietário aparece abaixo do banner principal e ocupa a largura disponível do README. Usa a URL pública permanente de user-images.githubusercontent.com, verificada com resposta HTTP 200 e tipo image/png. O link privado temporário com JWT não foi incluído no repositório. A arte reúne logotipos de tecnologias sobre um fundo espacial. A imagem é hospedada externamente e não foi editada; pode ser removida pelo bloco de imagem correspondente no README.
+As três imagens indicadas pelo proprietário ficam agrupadas abaixo do banner principal, nesta ordem:
+
+1. banner panorâmico de tecnologias, em largura total;
+2. animação pixel art de programação, em largura total;
+3. animação de rede, centralizada com largura de 180 px.
+
+Todas usam URLs públicas permanentes de `user-images.githubusercontent.com`, verificadas anteriormente com resposta HTTP 200. Os links privados temporários com JWT não entram no repositório. Os ativos são externos, não foram editados e devem ser mantidos juntos; o comentário no README identifica essa seção. As duas animações não oferecem controle de redução de movimento.
