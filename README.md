@@ -1,124 +1,73 @@
 <!--
-  GitHub profile README — stable, GitHub-native composition.
-  Documentation: DOCUMENTACAO.md
-  The profile deliberately avoids a custom SVG hero as its primary content.
+  GitHub profile: introduction, skills, selected work and contribution animation.
+  Edit public content here; banner source: scripts/generate_profile_banner.mjs.
+  Documentation: DOCUMENTACAO.md. Essential information stays readable without images.
 -->
 
-<div align="center">
-  <img src="https://github.com/wjr007.png?size=240" width="140" alt="Foto de Walteir Junior">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=2">
+  <img src="./light.svg?v=2" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
+</picture>
 
-  # Walteir Junior
+# Olá, sou o Walteir Junior.
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science;Machine+Learning+%26+Deep+Learning;Data+Analytics+%7C+Python+%7C+Java+%7C+Cloud" alt="AI e Ciência de Dados, Machine Learning, Deep Learning e Data Analytics">
+Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, software e automação — do estudo do problema à implementação.
 
-  <sub>Python · Java · Databases · Multi-Cloud · UI/UX · Workflow Automation</sub>
+**Meu foco:** Python, Java, SQL e APIs, com estudos em Machine Learning, Deep Learning e Cloud.
 
-  <br><br>
+[LinkedIn](https://www.linkedin.com/in/walteir-luiz-de-morais-junior-42a21928a/) &nbsp; / &nbsp; [E-mail](mailto:junior57k@gmail.com) &nbsp; / &nbsp; [Todos os repositórios](https://github.com/wjr007?tab=repositories)
 
-  <a href="https://www.linkedin.com/in/walteir-luiz-de-morais-junior-42a21928a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:junior57k@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Enviar e-mail"></a>
-  <a href="https://github.com/wjr007?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="Repositórios"></a>
-</div>
+## Conhecimentos e ferramentas
 
----
+Tecnologias utilizadas nos projetos e na minha formação, organizadas por área.
 
-## Perfil em foco
+### Dados & inteligência artificial
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="42" alt="Python e PyTorch">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Transformando+dados+em+solu%C3%A7%C3%B5es+pr%C3%A1ticas;Construindo+com+IA%2C+backend+e+automa%C3%A7%C3%A3o" alt="Transformando dados em soluções práticas e construindo com IA, backend e automação">
-</div>
+**Python · Pandas · NumPy · PyTorch**  
+Análise de dados, Machine Learning, Deep Learning e visão computacional.
 
-### Sobre
+### Software & interfaces
+<img src="https://skillicons.dev/icons?i=java,js,html,css,fastapi,mysql&theme=dark" height="42" alt="Java, JavaScript, HTML, CSS, FastAPI e MySQL">
 
-Graduando em **Inteligência Artificial e Ciência de Dados**, construindo soluções que conectam análise de dados, software e automação.
+**Java · JavaScript · HTML · CSS · FastAPI · SQL / MySQL**  
+Backend, APIs, bancos de dados e interfaces para apresentar informações.
 
-- Dados para decisões e produtos práticos.
-- Python, Java, SQL e APIs para implementar soluções.
-- Machine Learning, Deep Learning e Cloud em evolução contínua.
+### Cloud & automação
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,figma&theme=dark" height="42" alt="Docker, Kubernetes, AWS, Git e Figma">
 
-### Em foco
-
-<div align="center">
-  <code>AI &amp; Data Science</code> &nbsp;
-  <code>Machine Learning</code> &nbsp;
-  <code>Deep Learning</code> &nbsp;
-  <code>Data Analytics</code> &nbsp;
-  <code>Databases</code> &nbsp;
-  <code>Multi-Cloud</code> &nbsp;
-  <code>Backend</code> &nbsp;
-  <code>UI/UX</code> &nbsp;
-  <code>n8n Automation</code>
-</div>
-
-## Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,mysql,docker,kubernetes,aws,n8n,git,github,vscode,figma,numpy&theme=dark&perline=8" alt="Python, Java, JavaScript, HTML, CSS, FastAPI, MySQL, Docker, Kubernetes, AWS, n8n, Git, GitHub, VS Code, Figma e NumPy">
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Python-Data_%26_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python para dados e IA">
-  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend">
-  <img src="https://img.shields.io/badge/MySQL-Data_Layer-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-</div>
-
-## Pulso do GitHub
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=wjr007&locale=pt_BR&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="Sequência de contribuições">
-  <br>
-  <a href="https://github.com/wjr007?tab=repositories"><img height="190" src="https://github-readme-stats.shion.dev/api?username=wjr007&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Estatísticas do GitHub"></a>
-  <a href="https://github.com/wjr007?tab=repositories"><img height="190" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wjr007&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Linguagens mais usadas"></a>
-</div>
+**Docker · Kubernetes · AWS · Git · Figma · n8n**  
+Estudos em infraestrutura, versionamento, UI/UX e automação de fluxos.
 
 ## Projetos selecionados
 
-### 🤖 IA para admissão de candidatos
+| Projeto | O que você encontra |
+| :--- | :--- |
+| [**Classificação de imagens →**](https://github.com/wjr007/Processamento-de-Imagem) | CNN com PyTorch para distinguir gatos e cachorros. Treinamento, gráficos e documentação dos limites da avaliação. |
+| [**Análise de candidatos com IA →**](https://github.com/wjr007/Analise-Admissao-Candidatos-IA) | Exploração acadêmica de inteligência artificial aplicada à análise de candidatos. |
+| [**Processamento de linguagem natural →**](https://github.com/wjr007/Processamento-de-Linguagem-Natural-PLN-) | Estudos e aplicações para trabalhar com dados textuais e linguagem humana. |
+| [**Dashboard →**](https://github.com/wjr007/Dashboard) | Visualização de informações e indicadores em uma interface de produto. |
 
-`Inteligência Artificial` · `Análise de dados`
+## Construção contínua
 
-Uma exploração de IA aplicada à análise de candidatos.
+Cada contribuição faz parte do processo de aprender, experimentar e melhorar.
 
-[Explorar projeto →](https://github.com/wjr007/Analise-Admissao-Candidatos-IA)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg" width="100%" alt="Animação da cobrinha percorrendo as contribuições de wjr007, em uma paleta de azul e verde-água.">
+</picture>
 
-### 🖼️ Processamento de imagem
+<details>
+<summary>Estatísticas e linguagens do GitHub</summary>
 
-`Visão computacional` · `Python`
+<br>
+<img src="https://github-readme-stats.shion.dev/api?username=wjr007&show_icons=true&hide_rank=true&hide_border=true&title_color=55DDE0&icon_color=7AE2C3&text_color=9BB1C2&bg_color=0B1623" alt="Estatísticas públicas do GitHub de wjr007">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wjr007&layout=compact&langs_count=8&hide_border=true&title_color=55DDE0&text_color=9BB1C2&bg_color=0B1623" alt="Linguagens nos repositórios públicos; não representam nível de domínio">
 
-Experimentos e estudos de processamento e análise visual.
+<sub>Cartões de um serviço externo; podem ficar temporariamente indisponíveis. A distribuição de linguagens não representa proficiência.</sub>
+</details>
 
-[Explorar projeto →](https://github.com/wjr007/Processamento-de-Imagem)
+---
 
-### 💬 Processamento de linguagem natural
-
-`NLP` · `Dados textuais`
-
-Estudos e aplicações para interpretar e trabalhar com linguagem humana.
-
-[Explorar projeto →](https://github.com/wjr007/Processamento-de-Linguagem-Natural-PLN-)
-
-### 📊 Dashboard
-
-`Visualização de dados` · `Produto`
-
-Um projeto voltado à apresentação clara de informações e indicadores.
-
-[Explorar projeto →](https://github.com/wjr007/Dashboard)
-
-## Trilha de contribuições
-
-<div align="center">
-  <sub>IA · DADOS · AUTOMAÇÃO · ENTREGAS</sub>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg">
-    <img alt="Snake de contribuições" src="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <sub>Aberto a colaborações, projetos e oportunidades de aprendizado.</sub>
-</div>
-
+**Vamos conversar?** Aberto a colaborações, projetos e oportunidades de aprendizado.  
+[Entre em contato pelo LinkedIn →](https://www.linkedin.com/in/walteir-luiz-de-morais-junior-42a21928a/)

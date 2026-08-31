@@ -1,29 +1,46 @@
 # Perfil GitHub de Walteir Junior
 
-## Estrutura
+## Estrutura e publicação
 
-- `README.md`: conteúdo público exibido no perfil, construído com componentes nativos do GitHub.
-- `dark.svg` e `light.svg`: experimentos visuais mantidos fora do fluxo principal do README.
-- `.github/workflows/snake.yml`: atualiza a animação de contribuições a cada 12 horas.
-- `scripts/generate_profile_banner.py`: fonte reprodutível dos banners.
+- `README.md`: apresentação pública, habilidades por área, projetos e contribuição.
+- `dark.svg` e `light.svg`: banners com foto pública do perfil incorporada ao SVG, tipografia e movimento.
+- `scripts/generate_profile_banner.mjs`: fonte atual dos banners, usando apenas módulos nativos do Node.js.
+- `scripts/generate_profile_banner.py`: gerador do experimento antigo, preservado como histórico; não é usado pelo README atual.
+- `.github/workflows/snake.yml`: gera a cobrinha a cada 12 horas, em pushes para main ou por execução manual.
 
-## Ativos visuais
+O GitHub publica o README de `wjr007/wjr007` no perfil de mesmo nome. Não há servidor ou dependência de instalação para exibir o perfil.
 
-Os SVGs usam a foto atual do perfil apenas como entrada local, sem adicionar a foto original ao repositório. O README não depende desses SVGs: isso garante que a apresentação inicial permaneça legível se um navegador ou CDN não renderizar animações. Para atualizar os ativos experimentais, salve uma foto de retrato em `work/profile-assets/profile-avatar.png` e execute:
+## Design e movimento
 
-```powershell
-python scripts/generate_profile_banner.py
+Paleta escura: fundo `#0B1623`, texto `#EFF8FA`, secundário `#9BB1C2`, ciano `#55DDE0`, verde-água `#7AE2C3`. O banner claro utiliza fundo `#F3F8FA` com texto e acentos escuros.
+
+O retrato tem deslocamento vertical suave; um arco gira lentamente. As três habilidades do rodapé aparecem em sequência uma vez, permanecendo legíveis. O CSS do banner desativa esses movimentos com `prefers-reduced-motion: reduce`. A animação da cobrinha é produzida pelo gerador externo e não herda esse controle.
+
+O README mantém nome, formação, habilidades e links como texto independente das imagens. Não usa JavaScript nem CSS na página do GitHub; o movimento fica dentro dos SVGs. A seleção do banner claro/escuro usa `picture`.
+
+## Alterações rápidas
+
+Edite textos, projetos e contatos em `README.md`. Para editar o banner, altere `renderBanner` no gerador e execute na raiz:
+
+```sh
+node scripts/generate_profile_banner.mjs
 ```
 
-Depois, publique os dois SVGs gerados na raiz do repositório.
+Isso atualiza os dois SVGs da raiz. A foto pública atual do GitHub está incorporada como PNG no SVG. O gerador não baixa fotos nem precisa de Pillow; o arquivo de origem não foi retocado.
 
-## Configuração manual necessária
+Para mudar as cores da cobrinha, edite `color_snake` e os cinco valores de `color_dots` no workflow. A primeira cor representa ausência de contribuição; as seguintes representam intensidade crescente. Os SVGs gerados são publicados no branch `output`.
 
-1. Em `wjr007/wjr007`, abra **Settings > Actions > General** e configure **Workflow permissions** como **Read and write permissions**. Isto permite ao workflow publicar os SVGs da snake no branch `output`.
-2. Execute manualmente o workflow **Generate Snake Animation** uma vez e confirme que o branch `output` foi criado.
-3. Para ativar cartões de estatísticas sem limite compartilhado, faça o deploy privado de `anuraghazra/github-readme-stats` no Vercel e salve o token apenas como `PAT_1` nas variáveis de ambiente do Vercel. Nunca faça commit do token. Depois substitua `YOUR_STATS_INSTANCE` no README pelo domínio do seu deploy.
+## Serviços e diagnóstico
 
-## Segurança
+Os ícones usam skillicons.dev; as estatísticas recolhidas em um bloco expansível usam github-readme-stats.shion.dev. São serviços externos e podem falhar. Textos e links continuam utilizáveis sem eles.
 
-Este repositório não contém tokens, chaves nem a foto-fonte. A única integração com privilégio de escrita é o `GITHUB_TOKEN` temporário fornecido pelo GitHub Actions ao workflow.
+Se o banner não refletir a última versão, confira os SVGs em main e recarregue o perfil; o cache de imagens do GitHub pode atrasar a atualização.
 
+Se a cobrinha não atualizar, confira o workflow **Generate Snake Animation** em Actions e os arquivos do branch output. O workflow declara `contents: write` para publicar os arquivos com o token temporário do GitHub. Não adicione tokens pessoais ao README ou ao repositório; políticas da organização podem limitar Actions.
+
+## Verificação e histórico
+
+- Reorganizada a leitura: apresentação → conhecimentos → projetos → contribuições → contato.
+- Incorporada a foto pública do perfil com novo banner e entrada sequencial de habilidades.
+- Substituída a paleta roxa da cobrinha por azul, ciano e verde-água.
+- Mantidas as informações de graduação e aprendizado, sem afirmar senioridade ou proficiência não comprovada.
