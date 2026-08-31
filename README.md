@@ -4,7 +4,7 @@
   Documentation: DOCUMENTACAO.md. Essential information stays readable without images.
 -->
 
-<img src="./dark.svg?v=3" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
+<img src="./dark.svg?v=4" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
 
 <!-- Imagens enviadas pelo proprietário: manter as três nesta seção. -->
 <p align="center">

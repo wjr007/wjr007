@@ -26,7 +26,7 @@ Edite textos, projetos e contatos em `README.md`. Para editar o banner, altere `
 node scripts/generate_profile_banner.mjs
 ```
 
-Isso atualiza os dois SVGs da raiz. A foto pública atual do GitHub está incorporada como PNG no SVG. O gerador não baixa fotos nem precisa de Pillow; o arquivo de origem não foi retocado.
+Isso atualiza os dois SVGs da raiz. A imagem de IA fornecida pelo proprietário está incorporada como JPEG no SVG e recortada pela máscara circular com preserveAspectRatio. O gerador não baixa arquivos nem precisa de Pillow; a imagem original não foi retocada.
 
 Para mudar as cores da cobrinha, edite `color_snake` e os cinco valores de `color_dots` no workflow. A primeira cor representa ausência de contribuição; as seguintes representam intensidade crescente. Os SVGs gerados são publicados no branch `output`.
 
@@ -41,7 +41,7 @@ Se a cobrinha não atualizar, confira o workflow **Generate Snake Animation** em
 ## Verificação e histórico
 
 - Reorganizada a leitura: apresentação → conhecimentos → projetos → contribuições → contato.
-- Incorporada a foto pública do perfil com novo banner e entrada sequencial de habilidades.
+- Substituída a foto circular pela imagem de IA indicada pelo proprietário, preservando a composição e as animações.
 - Substituída a paleta roxa da cobrinha por azul, ciano e verde-água.
 - Mantidas as informações de graduação e aprendizado, sem afirmar senioridade ou proficiência não comprovada.
 
