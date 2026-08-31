@@ -53,6 +53,7 @@ Estudos em infraestrutura, versionamento, UI/UX e automação de fluxos.
 
 | Projeto | O que você encontra |
 | :--- | :--- |
+| [**Deep Learning Labs →**](https://github.com/wjr007/deep-learning-labs) | Cinco laboratórios práticos: fundamentos matemáticos, perceptron, MLP, backpropagation, otimização e regularização. |
 | [**Classificação de imagens →**](https://github.com/wjr007/Processamento-de-Imagem) | CNN com PyTorch para distinguir gatos e cachorros. Treinamento, gráficos e documentação dos limites da avaliação. |
 | [**Análise de candidatos com IA →**](https://github.com/wjr007/Analise-Admissao-Candidatos-IA) | Exploração acadêmica de inteligência artificial aplicada à análise de candidatos. |
 | [**Processamento de linguagem natural →**](https://github.com/wjr007/Processamento-de-Linguagem-Natural-PLN-) | Estudos e aplicações para trabalhar com dados textuais e linguagem humana. |
