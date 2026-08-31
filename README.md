@@ -31,23 +31,37 @@ Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projet
 
 Tecnologias utilizadas nos projetos e na minha formação, organizadas por área.
 
-### Dados & inteligência artificial
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="42" alt="Python e PyTorch">
+### Desenvolvimento, dados & inteligência artificial
 
-**Python · Pandas · NumPy · PyTorch**  
-Análise de dados, Machine Learning, Deep Learning e visão computacional.
+<img src="https://skillicons.dev/icons?i=python,pytorch,java,js,html,css,react,fastapi,mysql&theme=dark&perline=9" alt="Python, PyTorch, Java, JavaScript, HTML, CSS, React, FastAPI e MySQL">
 
-### Software & interfaces
-<img src="https://skillicons.dev/icons?i=java,js,html,css,fastapi,mysql&theme=dark" height="42" alt="Java, JavaScript, HTML, CSS, FastAPI e MySQL">
+**Python · PyTorch · Java · JavaScript · React · FastAPI · MySQL**  
+Análise de dados, Machine Learning, Deep Learning, APIs e desenvolvimento de interfaces.
 
-**Java · JavaScript · HTML · CSS · FastAPI · SQL / MySQL**  
-Backend, APIs, bancos de dados e interfaces para apresentar informações.
+### Cloud, versionamento & design
 
-### Cloud & automação
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,figma&theme=dark" height="42" alt="Docker, Kubernetes, AWS, Git e Figma">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,figma&theme=dark&perline=6" alt="AWS, Docker, Kubernetes, Git, GitHub e Figma">
 
-**Docker · Kubernetes · AWS · Git · Figma · n8n**  
-Estudos em infraestrutura, versionamento, UI/UX e automação de fluxos.
+**AWS · Docker · Kubernetes · Git · GitHub · Figma**  
+Infraestrutura, conteinerização, controle de versão e prototipação de interfaces.
+
+### IDEs & produtividade
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,notion,obsidian&theme=dark&perline=4" alt="Visual Studio Code, IntelliJ IDEA, Notion e Obsidian">
+
+**Visual Studio Code · IntelliJ IDEA · Notion · Obsidian**  
+Ambientes de desenvolvimento, documentação e organização do conhecimento.
+
+### Sistemas, segurança & automação
+
+<img src="https://skillicons.dev/icons?i=ubuntu,kali,linux&theme=dark&perline=3" alt="Ubuntu, Kali Linux e Linux">
+
+<br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"> <img src="https://img.shields.io/badge/Nmap-0B5CAB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
+
+**Ubuntu · Kali Linux · n8n · Nmap · Power BI**  
+Ambientes Linux, fundamentos de segurança, automação de fluxos e visualização de dados.
 
 ## Projetos selecionados
 
