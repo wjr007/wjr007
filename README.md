@@ -9,6 +9,10 @@
   <img src="./light.svg?v=2" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
 </picture>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="180" alt="Animação de pontos conectados por linhas, formando uma rede.">
+</p>
+
 # Olá, sou o Walteir Junior.
 
 Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, software e automação — do estudo do problema à implementação.
