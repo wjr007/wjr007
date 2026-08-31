@@ -44,3 +44,7 @@ Se a cobrinha não atualizar, confira o workflow **Generate Snake Animation** em
 - Incorporada a foto pública do perfil com novo banner e entrada sequencial de habilidades.
 - Substituída a paleta roxa da cobrinha por azul, ciano e verde-água.
 - Mantidas as informações de graduação e aprendizado, sem afirmar senioridade ou proficiência não comprovada.
+
+## GIF de rede
+
+O GIF indicado pelo proprietário aparece centralizado abaixo do banner, com largura de 180 px. Usa a URL pública permanente de user-images.githubusercontent.com, verificada com resposta HTTP 200 e tipo image/gif. O link privado temporário com JWT não foi incluído no repositório. O GIF é hospedado externamente, não foi editado e não oferece controle de redução de movimento; pode ser removido pelo bloco de imagem correspondente no README.
