@@ -65,7 +65,7 @@ Cada contribuição faz parte do processo de aprender, experimentar e melhorar.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg" width="100%" alt="Animação da cobrinha percorrendo as contribuições de wjr007, em uma paleta de azul e verde-água.">
+  <img src="https://raw.githubusercontent.com/wjr007/wjr007/output/github-snake.svg" width="100%" alt="Animação da cobrinha percorrendo as contribuições de wjr007, em uma paleta de preto e azul.">
 </picture>
 
 <details>
