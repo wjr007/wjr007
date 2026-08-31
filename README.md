@@ -9,8 +9,17 @@
   <img src="./light.svg?v=2" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
 </picture>
 
+<!-- Imagens enviadas pelo proprietário: manter as três nesta seção. -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" alt="Banner decorativo com logotipos de tecnologias sobre um fundo espacial e circuitos.">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animação pixel art de uma pessoa programando em um ambiente inspirado em videogames.">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="180" alt="Animação de pontos conectados por linhas, formando uma rede.">
 </p>
 
 # Olá, sou o Walteir Junior.
