@@ -62,10 +62,10 @@ Ambientes e agentes de IA usados para programar, revisar, documentar e acelerar 
 
 ### Cloud, contêineres & versionamento
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github&theme=dark&perline=5" alt="AWS, Docker, Kubernetes, Git e GitHub">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github&theme=dark&perline=6" alt="AWS, Docker, Kubernetes, Terraform, Git e GitHub">
 
-**AWS · Docker · Kubernetes · Git · GitHub**  
-Infraestrutura, empacotamento de aplicações, orquestração e colaboração com controle de versão.
+**AWS · Docker · Kubernetes · Terraform · Git · GitHub**  
+Infraestrutura como código, cloud, empacotamento de aplicações, orquestração e colaboração com controle de versão.
 
 ### Sistemas operacionais & segurança
 
