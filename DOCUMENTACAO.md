@@ -3,7 +3,7 @@
 ## Estrutura e publicação
 
 - `README.md`: apresentação pública, habilidades por área, projetos e contribuição.
-- `dark.svg` e `light.svg`: banners com retrato vetorial existente, tipografia e movimento.
+- `dark.svg` e `light.svg`: banners com foto pública do perfil incorporada ao SVG, tipografia e movimento.
 - `scripts/generate_profile_banner.mjs`: fonte atual dos banners, usando apenas módulos nativos do Node.js.
 - `scripts/generate_profile_banner.py`: gerador do experimento antigo, preservado como histórico; não é usado pelo README atual.
 - `.github/workflows/snake.yml`: gera a cobrinha a cada 12 horas, em pushes para main ou por execução manual.
@@ -26,7 +26,7 @@ Edite textos, projetos e contatos em `README.md`. Para editar o banner, altere `
 node scripts/generate_profile_banner.mjs
 ```
 
-Isso atualiza os dois SVGs da raiz. O desenho em pontos foi reaproveitado do ativo já público; o gerador não baixa fotos nem precisa de Pillow.
+Isso atualiza os dois SVGs da raiz. A foto pública atual do GitHub está incorporada como PNG no SVG. O gerador não baixa fotos nem precisa de Pillow; o arquivo de origem não foi retocado.
 
 Para mudar as cores da cobrinha, edite `color_snake` e os cinco valores de `color_dots` no workflow. A primeira cor representa ausência de contribuição; as seguintes representam intensidade crescente. Os SVGs gerados são publicados no branch `output`.
 
@@ -41,6 +41,6 @@ Se a cobrinha não atualizar, confira o workflow **Generate Snake Animation** em
 ## Verificação e histórico
 
 - Reorganizada a leitura: apresentação → conhecimentos → projetos → contribuições → contato.
-- Reaproveitado o retrato existente com novo banner e entrada sequencial de habilidades.
+- Incorporada a foto pública do perfil com novo banner e entrada sequencial de habilidades.
 - Substituída a paleta roxa da cobrinha por azul, ciano e verde-água.
 - Mantidas as informações de graduação e aprendizado, sem afirmar senioridade ou proficiência não comprovada.
