@@ -45,6 +45,6 @@ Se a cobrinha não atualizar, confira o workflow **Generate Snake Animation** em
 - Substituída a paleta roxa da cobrinha por azul, ciano e verde-água.
 - Mantidas as informações de graduação e aprendizado, sem afirmar senioridade ou proficiência não comprovada.
 
-## GIF de rede
+## GIF pixel art
 
-O GIF indicado pelo proprietário aparece centralizado abaixo do banner, com largura de 180 px. Usa a URL pública permanente de user-images.githubusercontent.com, verificada com resposta HTTP 200 e tipo image/gif. O link privado temporário com JWT não foi incluído no repositório. O GIF é hospedado externamente, não foi editado e não oferece controle de redução de movimento; pode ser removido pelo bloco de imagem correspondente no README.
+O GIF indicado pelo proprietário aparece abaixo do banner e ocupa a largura disponível do README. Usa a URL pública permanente de user-images.githubusercontent.com, verificada com resposta HTTP 200 e tipo image/gif. O link privado temporário com JWT não foi incluído no repositório. A animação mostra uma cena pixel art de programação. O GIF é hospedado externamente, não foi editado e não oferece controle de redução de movimento; pode ser removido pelo bloco de imagem correspondente no README.
