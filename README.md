@@ -29,39 +29,65 @@ Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projet
 
 ## Conhecimentos e ferramentas
 
-Tecnologias utilizadas nos projetos e na minha formação, organizadas por área.
+Ferramentas que utilizo em estudos e projetos, agrupadas conforme sua função no fluxo de desenvolvimento.
 
-### Desenvolvimento, dados & inteligência artificial
+### Inteligência artificial, dados & visualização
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,java,js,html,css,react,fastapi,mysql&theme=dark&perline=9" alt="Python, PyTorch, Java, JavaScript, HTML, CSS, React, FastAPI e MySQL">
-
-**Python · PyTorch · Java · JavaScript · React · FastAPI · MySQL**  
-Análise de dados, Machine Learning, Deep Learning, APIs e desenvolvimento de interfaces.
-
-### Cloud, versionamento & design
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,figma&theme=dark&perline=6" alt="AWS, Docker, Kubernetes, Git, GitHub e Figma">
-
-**AWS · Docker · Kubernetes · Git · GitHub · Figma**  
-Infraestrutura, conteinerização, controle de versão e prototipação de interfaces.
-
-### IDEs & produtividade
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,notion,obsidian&theme=dark&perline=4" alt="Visual Studio Code, IntelliJ IDEA, Notion e Obsidian">
-
-**Visual Studio Code · IntelliJ IDEA · Notion · Obsidian**  
-Ambientes de desenvolvimento, documentação e organização do conhecimento.
-
-### Sistemas, segurança & automação
-
-<img src="https://skillicons.dev/icons?i=ubuntu,kali,linux&theme=dark&perline=3" alt="Ubuntu, Kali Linux e Linux">
+<img src="https://skillicons.dev/icons?i=python,pytorch,mysql&theme=dark&perline=3" alt="Python, PyTorch e MySQL">
 
 <br>
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"> <img src="https://img.shields.io/badge/Nmap-0B5CAB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
 
-**Ubuntu · Kali Linux · n8n · Nmap · Power BI**  
-Ambientes Linux, fundamentos de segurança, automação de fluxos e visualização de dados.
+**Python · PyTorch · MySQL · Power BI**  
+Preparação e análise de dados, desenvolvimento de modelos de Machine Learning e criação de visualizações.
+
+### Desenvolvimento de software & web
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,fastapi&theme=dark&perline=6" alt="Java, JavaScript, HTML, CSS, React e FastAPI">
+
+**Java · JavaScript · HTML · CSS · React · FastAPI**  
+Aplicações, APIs e interfaces para transformar dados e modelos em soluções utilizáveis.
+
+### IDEs & desenvolvimento assistido por IA
+
+<img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark&perline=2" alt="Visual Studio Code e IntelliJ IDEA">
+
+<br>
+
+<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"> <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity">
+
+**Visual Studio Code · IntelliJ IDEA · Cursor · Codex · Claude · Google Antigravity**  
+Ambientes e agentes de IA usados para programar, revisar, documentar e acelerar tarefas de engenharia.
+
+### Cloud, contêineres & versionamento
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github&theme=dark&perline=5" alt="AWS, Docker, Kubernetes, Git e GitHub">
+
+**AWS · Docker · Kubernetes · Git · GitHub**  
+Infraestrutura, empacotamento de aplicações, orquestração e colaboração com controle de versão.
+
+### Sistemas operacionais & segurança
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali&theme=dark&perline=3" alt="Linux, Ubuntu e Kali Linux">
+
+<br>
+
+<img src="https://img.shields.io/badge/Nmap-0B5CAB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+
+**Linux · Ubuntu · Kali Linux · Nmap**  
+Ambientes de desenvolvimento, linha de comando, redes e fundamentos de análise de segurança.
+
+### Automação, conhecimento & design
+
+<img src="https://skillicons.dev/icons?i=notion,obsidian,figma&theme=dark&perline=3" alt="Notion, Obsidian e Figma">
+
+<br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+
+**n8n · Notion · Obsidian · Figma**  
+Automação de fluxos, documentação, organização do conhecimento e prototipação de interfaces.
 
 ## Projetos selecionados
 
