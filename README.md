@@ -5,8 +5,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <img src="./light.svg" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=2">
+  <img src="./light.svg?v=2" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
 </picture>
 
 # Olá, sou o Walteir Junior.
