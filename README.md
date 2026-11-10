@@ -4,7 +4,7 @@
   Documentation: DOCUMENTACAO.md. Essential information stays readable without images.
 -->
 
-<img src="./dark.svg?v=4" width="100%" alt="Walteir Junior — Inteligência Artificial e Ciência de Dados. Retrato animado; Python, Java, SQL, Machine Learning e Analytics.">
+<img src="./dark.svg?v=4" width="100%" alt="Walteir Junior — Inteligência Artificial, Ciência de Dados e Engenharia de Software. Retrato animado; Python, Java, TypeScript, SQL, Machine Learning e Analytics.">
 
 <!-- Imagens enviadas pelo proprietário: manter as três nesta seção. -->
 <p align="center">
@@ -21,9 +21,9 @@
 
 # Olá, sou o Walteir Junior.
 
-Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, software e automação — do estudo do problema à implementação.
+Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, engenharia de software e automação — do estudo do problema à implementação em produção.
 
-**Meu foco:** Python, Java, SQL e APIs, com estudos em Machine Learning, Deep Learning e Cloud.
+**Meu foco:** Python, TypeScript, Java, SQL (PostgreSQL, SQL Server) e APIs (NestJS, FastAPI), com estudos em Machine Learning, Deep Learning e Cloud.
 
 [LinkedIn](https://www.linkedin.com/in/walteir-luiz-de-morais-junior-42a21928a/) &nbsp; / &nbsp; [E-mail](mailto:junior57k@gmail.com) &nbsp; / &nbsp; [Todos os repositórios](https://github.com/wjr007?tab=repositories)
 
@@ -33,58 +33,56 @@ Ferramentas que utilizo em estudos e projetos, agrupadas conforme sua função n
 
 ### Inteligência artificial, dados & visualização
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,mysql&theme=dark&perline=3" alt="Python, PyTorch e MySQL">
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" width="60" height="28" alt="Python e PyTorch"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" height="28" alt="Power BI">
 
-<br>
+**Python · PyTorch · Power BI**  
+Preparação e análise de dados, desenvolvimento de modelos de Machine Learning e criação de visualizações analíticas.
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
+### Bancos de dados & persistência
 
-**Python · PyTorch · MySQL · Power BI**  
-Preparação e análise de dados, desenvolvimento de modelos de Machine Learning e criação de visualizações.
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="60" height="28" alt="PostgreSQL e MySQL"> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="Microsoft SQL Server"> <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" height="28" alt="TypeORM">
 
-### Desenvolvimento de software & web
+**PostgreSQL · SQL Server · MySQL · TypeORM**  
+Modelagem de dados relacionais, queries SQL estruturadas, integridade referencial e mapeamento objeto-relacional (ORM).
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,fastapi&theme=dark&perline=6" alt="Java, JavaScript, HTML, CSS, React e FastAPI">
+### Backend, APIs & arquitetura
 
-**Java · JavaScript · HTML · CSS · React · FastAPI**  
-Aplicações, APIs e interfaces para transformar dados e modelos em soluções utilizáveis.
+<img src="https://skillicons.dev/icons?i=ts,nestjs,fastapi,java&theme=dark" width="126" height="28" alt="TypeScript, NestJS, FastAPI e Java">
+
+**TypeScript · NestJS · FastAPI · Java**  
+Construção de APIs robustas, arquiteturas modulares, microsserviços, POO e lógica de negócio fortemente tipada.
+
+### Frontend & interfaces web
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,js,html,css&theme=dark" width="192" height="28" alt="Next.js, React, Angular, JavaScript, HTML e CSS">
+
+**Next.js · React · Angular · JavaScript · HTML5 · CSS3**  
+Aplicações web modernas, renderização híbrida (SSR/SSG), single page applications (SPAs) escaláveis e design responsivo.
 
 ### IDEs & desenvolvimento assistido por IA
 
-<img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark&perline=2" alt="Visual Studio Code e IntelliJ IDEA">
-
-<br>
-
-<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"> <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity">
+<img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" width="60" height="28" alt="Visual Studio Code e IntelliJ IDEA"> <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" height="28" alt="Cursor"> <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI Codex"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude"> <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Google Antigravity">
 
 **Visual Studio Code · IntelliJ IDEA · Cursor · Codex · Claude · Google Antigravity**  
 Ambientes e agentes de IA usados para programar, revisar, documentar e acelerar tarefas de engenharia.
 
 ### Cloud, contêineres & versionamento
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,git,github&theme=dark&perline=8" alt="AWS, Google Cloud, Microsoft Azure, Docker, Kubernetes, Terraform, Git e GitHub">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,git,github&theme=dark" width="258" height="28" alt="AWS, Google Cloud, Microsoft Azure, Docker, Kubernetes, Terraform, Git e GitHub">
 
 **AWS · Google Cloud · Microsoft Azure · Docker · Kubernetes · Terraform · Git · GitHub**  
 Infraestrutura como código, cloud, empacotamento de aplicações, orquestração e colaboração com controle de versão.
 
 ### Sistemas operacionais & segurança
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali&theme=dark&perline=3" alt="Linux, Ubuntu e Kali Linux">
-
-<br>
-
-<img src="https://img.shields.io/badge/Nmap-0B5CAB?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali&theme=dark" width="94" height="28" alt="Linux, Ubuntu e Kali Linux"> <img src="https://img.shields.io/badge/Nmap-0B5CAB?style=for-the-badge&logo=nmap&logoColor=white" height="28" alt="Nmap">
 
 **Linux · Ubuntu · Kali Linux · Nmap**  
 Ambientes de desenvolvimento, linha de comando, redes e fundamentos de análise de segurança.
 
 ### Automação, conhecimento & design
 
-<img src="https://skillicons.dev/icons?i=notion,obsidian,figma&theme=dark&perline=3" alt="Notion, Obsidian e Figma">
-
-<br>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://skillicons.dev/icons?i=notion,obsidian,figma&theme=dark" width="94" height="28" alt="Notion, Obsidian e Figma"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n">
 
 **n8n · Notion · Obsidian · Figma**  
 Automação de fluxos, documentação, organização do conhecimento e prototipação de interfaces.
