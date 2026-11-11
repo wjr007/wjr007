@@ -21,7 +21,7 @@
 
 # Olá, sou o Walteir Junior.
 
-Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, engenharia de software e automação — do estudo do problema à implementação em produção.
+Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, engenharia de software e automação do estudo do problema à implementação em produção.
 
 **Meu foco:** Python, TypeScript, Java, SQL (PostgreSQL, SQL Server) e APIs (NestJS, FastAPI), com estudos em Machine Learning, Deep Learning e Cloud.
 
