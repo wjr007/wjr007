@@ -21,9 +21,9 @@
 
 # Olá, sou o Walteir Junior.
 
-Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, engenharia de software e automação do estudo do problema à implementação em produção.
+Graduando em **Inteligência Artificial e Ciência de Dados**. Desenvolvo projetos que conectam análise de dados, arquitetura de sistemas agênticos, engenharia de software e automação do estudo do problema à implementação em produção.
 
-**Meu foco:** Python, TypeScript, Java, SQL (PostgreSQL, SQL Server) e APIs (NestJS, FastAPI), com estudos em Machine Learning, Deep Learning e Cloud.
+**Meu foco:** Python, TypeScript, Java, SQL (PostgreSQL, SQL Server) e APIs (NestJS, FastAPI), com estudos práticos em Arquitetura de Agentes Autônomos (Sistemas Multi-Agente, Governança Human-in-the-Loop, Model Context Protocol), Machine Learning, Deep Learning e Cloud.
 
 [LinkedIn](https://www.linkedin.com/in/walteir-luiz-de-morais-junior-42a21928a/) &nbsp; / &nbsp; [E-mail](mailto:junior57k@gmail.com) &nbsp; / &nbsp; [Todos os repositórios](https://github.com/wjr007?tab=repositories)
 
@@ -38,6 +38,13 @@ Ferramentas que utilizo em estudos e projetos, agrupadas conforme sua função n
 **Python · PyTorch · Power BI**  
 Preparação e análise de dados, desenvolvimento de modelos de Machine Learning e criação de visualizações analíticas.
 
+### Sistemas agênticos, governança & arquitetura de IA
+
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=probot&logoColor=white" height="28" alt="Multi-Agent Systems"> <img src="https://img.shields.io/badge/Human--in--the--Loop-10B981?style=for-the-badge&logo=shield&logoColor=white" height="28" alt="Human-in-the-Loop"> <img src="https://img.shields.io/badge/MCP_Protocol-00C49F?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="Model Context Protocol"> <img src="https://img.shields.io/badge/Non--Autoregressive_SLMs-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white" height="28" alt="SLMs">
+
+**Sistemas Multi-Agente · Governança Human-in-the-Loop · Model Context Protocol (MCP) · Roteamento SLM**  
+Arquitetura de agentes autônomos, esteiras de governança em múltiplos níveis, inferência de baixa latência com modelos não-autoregressivos, orquestração por eventos e integração com bases de conhecimento persistentes.
+
 ### Bancos de dados & persistência
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="60" height="28" alt="PostgreSQL e MySQL"> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="Microsoft SQL Server"> <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" height="28" alt="TypeORM">
@@ -49,8 +56,8 @@ Modelagem de dados relacionais, queries SQL estruturadas, integridade referencia
 
 <img src="https://skillicons.dev/icons?i=ts,nestjs,fastapi,java&theme=dark" width="126" height="28" alt="TypeScript, NestJS, FastAPI e Java">
 
-**TypeScript · NestJS · FastAPI · Java**  
-Construção de APIs robustas, arquiteturas modulares, microsserviços, POO e lógica de negócio fortemente tipada.
+**TypeScript · NestJS · FastAPI · Java · Spec-Driven Development (SDD) · TDD**  
+Construção de APIs robustas, arquiteturas modulares, microsserviços, contratos formais (SDD), testes automatizados determinísticos, análise estática via AST, POO e lógica de negócio fortemente tipada.
 
 ### Frontend & interfaces web
 
